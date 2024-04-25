@@ -1,0 +1,22 @@
+.poster{
+    margin-left: 25%;
+    margin-top: 10%;
+    border: 50%;
+    color: aliceblue;
+    width: 50%;
+    text-align: center;
+    font-family: Roboto;
+}
+body{
+    background-color: black;
+}
+.motivation{
+    width: 100%;
+    border: 5px solid white;
+}
+h1{
+    font-size: 6em;
+}
+p{
+    font-size: 25px;
+}
